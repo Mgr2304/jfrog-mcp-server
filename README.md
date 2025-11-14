@@ -50,5 +50,5 @@ The following example shows MCP Server definition in Cursor:
       "url":"https://<​​JFROG_PLATFORM_URL​​>/mcp"
     }  
   }  
-}
+}2332
 ```
